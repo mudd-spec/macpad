@@ -45,7 +45,6 @@ Here is everything needed to make the macpad
 - 4x M3x5x4 Heatset inserts
 - 4X M3x12mm SHCS Bolts
 - 11x 1N4148 DO-35 Diodes.
-- 2x WS2812B LEDs
 - 2x EC11 Rotary Encoder
 - 1x XIAO RP2040
 - 1x Case (3 3D printed parts)
