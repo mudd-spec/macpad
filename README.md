@@ -22,7 +22,7 @@ The PCB as well as the schematic is pictured below:
 
 Schematic
 
-<img src=assets/schematic.png alt="schematic" width="300"/>
+<img src=assets/schematic.png alt="schematic" width="600"/>
 
 PCB
 
